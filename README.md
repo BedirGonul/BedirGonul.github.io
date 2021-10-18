@@ -7,9 +7,9 @@
 <html>
 <body>
 
-<h1 align="center">Welcome!</h1>
+<h1>">I'm Hungry!!!</h1>
 
-<p align="center">*Unless your Thrwat*</p>
+<p>*AlL bY mYsElF!!!*</p>
 
 </body>
 </html>
