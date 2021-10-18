@@ -24,7 +24,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <html>
 <body>
 
-<a href="https://bedirgonul.github.io/layout.html">Visit Other Page, Unless your Thrwat</a>
+<h1><a href="https://bedirgonul.github.io/layout.html">Visit Other Page, Unless your Thrwat</a><h1>
 
 </body>
 </html>
