@@ -21,13 +21,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Link](url) and ![Image](src)
 ```
 
-<!DOCTYPE html>
 <html>
 <body>
 
-<h1>Test</h1>
-
-<p>Fingers crossed</p>
+<a href="https://bedirgonul.github.io/layout.html">Visit Other Page, Unless your Thrwat</a>
 
 </body>
 </html>
