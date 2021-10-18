@@ -1,4 +1,13 @@
-## TriaL;
+[QuickTap]https://bedirgonul.github.io)
+
+<html>
+<body>
+
+<h1><a href="https://bedirgonul.github.io/layout.html">Visit Other Page, *Unless your Thrwat*</a><h1>
+
+</body>
+</html>
+
 
 [Editor](https://github.com/BedirGonul/BedirGonul.github.io/edit/main/README.md)
 
@@ -20,12 +29,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Link](url) and ![Image](src)
 ```
-
-<html>
-<body>
-
-<h1><a href="https://bedirgonul.github.io/layout.html">Visit Other Page, Unless your Thrwat</a><h1>
-
-</body>
-</html>
-
