@@ -1,4 +1,4 @@
-[QuickTap]https://bedirgonul.github.io)
+[QuickTap](https://bedirgonul.github.io)
 
 <html>
 <body>
