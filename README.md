@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## TriaL;
 
 You can use the [editor on GitHub](https://github.com/BedirGonul/BedirGonul.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
