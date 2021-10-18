@@ -20,4 +20,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Link](url) and ![Image](src)
 ```
-layout.html
+[awdad](https://github.com/BedirGonul/BedirGonul.github.io/blob/aeded991157cbc7387ab8b55e2ab79cc07e5a66d/layout.html)
